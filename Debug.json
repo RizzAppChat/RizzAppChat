@@ -1,7 +1,7 @@
 {
-    "showInter": true,
+    "showInter": false,
     "showBanner": false,
-    "showAppOpen": true,
+    "showAppOpen": false,
     "interCount": 4,
-    "version": "2.7"
+    "version": "4.34"
 }
