@@ -3,5 +3,6 @@
     "showBanner": false,
     "showAppOpen": false,
     "interCount": 4,
+    "shouldLoadCompanions": false,
     "version": "4.34"
 }
