@@ -2,7 +2,7 @@
     "showInter": false,
     "showBanner": false,
     "showAppOpen": false,
-    "interCount": 4,
+    "interCount": 2,
     "shouldLoadCompanions": false,
-    "version": "4.34"
+    "version": "1.22"
 }
