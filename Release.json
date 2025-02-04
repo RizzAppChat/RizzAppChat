@@ -1,8 +1,8 @@
 {
-    "showInter": true,
-    "showBanner": true,
-    "showAppOpen": true,
+    "showInter": false,
+    "showBanner": false,
+    "showAppOpen": false,
     "interCount": 2,
-    "shouldLoadCompanions": true,
-    "version": "1.22"
+    "shouldLoadCompanions": false,
+    "version": "1.23"
 }
