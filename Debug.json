@@ -1,7 +1,7 @@
 {
     "showInter": true,
-    "showBanner": false,
-    "showAppOpen": false,
+    "showBanner": true,
+    "showAppOpen": true,
     "interCount": 2,
     "shouldLoadCompanions": true,
     "version": "1.24"
